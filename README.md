@@ -3,7 +3,7 @@
 - 👀 I am interested in WordPress Development
 - 📫 Email me @ maulik0412@gmail.com
   
-As a seasoned full-stack developer, I bring a wealth of experience in WordPress , CakePHP , Laravel and Symfony development to the table. My expertise spans both front-end and back-end realms, with a focus on crafting custom websites using Laravel, Symfony, CakePHP and WordPress themes and plugins. Here's a peek into my skill set:
+As a seasoned full-stack developer, I bring a wealth of experience in WordPress , CakePHP , Laravel, Drupal and Symfony development to the table. My expertise spans both front-end and back-end realms, with a focus on crafting custom websites using Laravel, Symfony, CakePHP and WordPress themes and plugins. Here's a peek into my skill set:
 
 - Proficient in Laravel & React/Vue for cross-platform web application development
 - Skilled in REST API development for seamless integration
